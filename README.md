@@ -10,7 +10,7 @@ A clean and responsive Parent-Teacher Conference scheduling form built with HTML
 - Accessible form structure with proper labels
 
 ## Live Demo
-*(Add your live link here once deployed)*
+https://cnelous.github.io/parent-teacher-conference-form/
 
 ## Technologies Used
 - HTML5
